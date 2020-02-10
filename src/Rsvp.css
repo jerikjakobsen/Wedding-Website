@@ -1,0 +1,22 @@
+.container {
+    display: block
+}
+
+.search {
+    display: inline-block;
+    width: 30%;
+    height: 40px;
+    font-size: 20px;
+    margin-right: 8%
+}
+
+.searchButton {
+    display: inline-block;
+    width: 15%;
+    height: 40px;
+}
+
+.error {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(211, 56, 56)
+}
